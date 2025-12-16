@@ -1,0 +1,23 @@
+# Dirsearch started Tue Dec 16 23:03:01 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u 10.48.132.190
+
+403   299B   http://10.48.132.190/.ht_wsr.txt
+403   302B   http://10.48.132.190/.htaccess.bak1
+403   304B   http://10.48.132.190/.htaccess.sample
+403   302B   http://10.48.132.190/.htaccess.save
+403   302B   http://10.48.132.190/.htaccess.orig
+403   303B   http://10.48.132.190/.htaccess_extra
+403   300B   http://10.48.132.190/.htaccessOLD
+403   302B   http://10.48.132.190/.htaccess_orig
+403   300B   http://10.48.132.190/.htaccess_sc
+403   300B   http://10.48.132.190/.htaccessBAK
+403   301B   http://10.48.132.190/.htaccessOLD2
+403   293B   http://10.48.132.190/.html
+403   302B   http://10.48.132.190/.htpasswd_test
+403   298B   http://10.48.132.190/.htpasswds
+403   299B   http://10.48.132.190/.httr-oauth
+403   292B   http://10.48.132.190/.htm
+403   292B   http://10.48.132.190/.php
+200   540B   http://10.48.132.190/robots.txt
+403   301B   http://10.48.132.190/server-status
+403   302B   http://10.48.132.190/server-status/
+301   315B   http://10.48.132.190/simple    -> REDIRECTS TO: http://10.48.132.190/simple/
